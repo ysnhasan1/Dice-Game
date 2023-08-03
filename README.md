@@ -7,7 +7,7 @@ In this project I created a dice game using HTML, CSS and JavaScript. The game i
 
 ### ***Website Link to Play the Game 👇***
 ##### https://ysnhasan1.github.io/Dice-Game/
-#### You can play the game and share your observations with me.
+
 ---
 
 ### ***Original Screen Size***
