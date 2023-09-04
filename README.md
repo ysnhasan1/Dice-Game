@@ -10,7 +10,11 @@ Creating a dice game using HTML, CSS and JavaScript.
 https://ysnhasan1.github.io/Dice-Game/
 
 ## Original Screen Size
-<img src="https://github.com/ysnhasan1/Dice-Game/assets/102024926/99704c23-9ebe-4b56-b945-eff1d3679185"><br />
+<div align="center">
+<img src="https://github.com/ysnhasan1/Dice-Game/assets/102024926/99704c23-9ebe-4b56-b945-eff1d3679185">
+</div>
 
 ## Responsive to Smaller Screen Size (Phone View)
-<img src="https://github.com/ysnhasan1/Dice-Game/assets/102024926/3b2ffecd-1a8d-45e3-a0c9-a11d5a45fbf0" height="500">
+<div align="center">
+<img src="https://github.com/ysnhasan1/Dice-Game/assets/102024926/b4173b02-1e19-422b-bf14-4066da49c4cc" height="500">
+</div>
