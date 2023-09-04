@@ -75,11 +75,12 @@ footer {
 
 /* Media Queries */
 
-@media (max-width:1000px) {
+@media (max-width: 800px) {
 
   h1 {
-    margin-bottom: 0;
-    font-size: 90px;
+    font-size: 50px;
+    font-family: monospace;
+    text-shadow: none;
   }
 
   p {
@@ -90,25 +91,8 @@ footer {
     width: 60%;
   }
 
-}
-
-@media (max-width:800px) {
-
-  h1 {
-    font-size: 60px;
-    text-shadow: none;
-  }
-
-  p {
-    font-size: 20px;
-  }
-
-  img {
-    width: 40%;
-  }
-
   button {
-    width: 65px;
+    width: 60px;
   }
 
   footer {
@@ -120,7 +104,6 @@ footer {
 
   h1 {
     font-size: 35px;
-    text-shadow: none;
   }
 
   p {
@@ -131,11 +114,27 @@ footer {
     width: 35%;
   }
 
-  button {
-    width: 60px;
-  }
-
   footer {
     font-size: 12px;
+  }
+}
+
+@media (max-width:480px) {
+
+  h1 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  img {
+    width: 30%;
+  }
+
+  button {
+    width: 40px;
+    font-size: 10px;
   }
 }
