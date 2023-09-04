@@ -70,7 +70,8 @@ footer {
   color: black;
   text-align: center;
   font-size: 20px;
-  font-family: cursive;
+  font-family: monospace;
+  font-weight: bold;
 }
 
 /* Media Queries */
@@ -96,7 +97,7 @@ footer {
   }
 
   footer {
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 
@@ -115,7 +116,7 @@ footer {
   }
 
   footer {
-    font-size: 12px;
+    font-size: 15px;
   }
 }
 
@@ -135,6 +136,10 @@ footer {
 
   button {
     width: 40px;
+    font-size: 10px;
+  }
+
+  footer {
     font-size: 10px;
   }
 }
